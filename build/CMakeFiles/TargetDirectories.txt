@@ -1,0 +1,3 @@
+/Users/pasaran/projects/devworkspace-manager/build/CMakeFiles/main.dir
+/Users/pasaran/projects/devworkspace-manager/build/CMakeFiles/edit_cache.dir
+/Users/pasaran/projects/devworkspace-manager/build/CMakeFiles/rebuild_cache.dir
