@@ -2,10 +2,14 @@
 // Created by Pasaran Razvan on 20.06.2025.
 //
 
-#include "old_way_to_scan_directory.h"
-#include "util.h"
+#include <iostream>
+#include <stdlib.h>
+#include <dirent.h>
+#include <vector>
+#include "OldWayToScanDirectory.h"
+#include "Util.h"
 
-std::vector<std::string> old_way_to_scan_directory(const char *filePath) {
+std::vector<std::string> OldWayToScanDirectory(const char *filePath) {
   std::vector<std::string> files;
   DIR *dr;
     struct dirent *en;

@@ -86,33 +86,33 @@ CMakeFiles/main.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/pasaran/projects/devworkspace-manager/main.cpp -o CMakeFiles/main.dir/main.cpp.s
 
-CMakeFiles/main.dir/src/scan_dir/old_way_to_scan_directory.cpp.o: CMakeFiles/main.dir/flags.make
-CMakeFiles/main.dir/src/scan_dir/old_way_to_scan_directory.cpp.o: /Users/pasaran/projects/devworkspace-manager/src/scan_dir/old_way_to_scan_directory.cpp
-CMakeFiles/main.dir/src/scan_dir/old_way_to_scan_directory.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/pasaran/projects/devworkspace-manager/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/main.dir/src/scan_dir/old_way_to_scan_directory.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/scan_dir/old_way_to_scan_directory.cpp.o -MF CMakeFiles/main.dir/src/scan_dir/old_way_to_scan_directory.cpp.o.d -o CMakeFiles/main.dir/src/scan_dir/old_way_to_scan_directory.cpp.o -c /Users/pasaran/projects/devworkspace-manager/src/scan_dir/old_way_to_scan_directory.cpp
+CMakeFiles/main.dir/src/scan_dir/OldWayToScanDirectory.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/src/scan_dir/OldWayToScanDirectory.cpp.o: /Users/pasaran/projects/devworkspace-manager/src/scan_dir/OldWayToScanDirectory.cpp
+CMakeFiles/main.dir/src/scan_dir/OldWayToScanDirectory.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/pasaran/projects/devworkspace-manager/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/main.dir/src/scan_dir/OldWayToScanDirectory.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/scan_dir/OldWayToScanDirectory.cpp.o -MF CMakeFiles/main.dir/src/scan_dir/OldWayToScanDirectory.cpp.o.d -o CMakeFiles/main.dir/src/scan_dir/OldWayToScanDirectory.cpp.o -c /Users/pasaran/projects/devworkspace-manager/src/scan_dir/OldWayToScanDirectory.cpp
 
-CMakeFiles/main.dir/src/scan_dir/old_way_to_scan_directory.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/src/scan_dir/old_way_to_scan_directory.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/pasaran/projects/devworkspace-manager/src/scan_dir/old_way_to_scan_directory.cpp > CMakeFiles/main.dir/src/scan_dir/old_way_to_scan_directory.cpp.i
+CMakeFiles/main.dir/src/scan_dir/OldWayToScanDirectory.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/src/scan_dir/OldWayToScanDirectory.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/pasaran/projects/devworkspace-manager/src/scan_dir/OldWayToScanDirectory.cpp > CMakeFiles/main.dir/src/scan_dir/OldWayToScanDirectory.cpp.i
 
-CMakeFiles/main.dir/src/scan_dir/old_way_to_scan_directory.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/scan_dir/old_way_to_scan_directory.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/pasaran/projects/devworkspace-manager/src/scan_dir/old_way_to_scan_directory.cpp -o CMakeFiles/main.dir/src/scan_dir/old_way_to_scan_directory.cpp.s
+CMakeFiles/main.dir/src/scan_dir/OldWayToScanDirectory.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/scan_dir/OldWayToScanDirectory.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/pasaran/projects/devworkspace-manager/src/scan_dir/OldWayToScanDirectory.cpp -o CMakeFiles/main.dir/src/scan_dir/OldWayToScanDirectory.cpp.s
 
-CMakeFiles/main.dir/src/scan_dir/new_way_to_scan_directory.cpp.o: CMakeFiles/main.dir/flags.make
-CMakeFiles/main.dir/src/scan_dir/new_way_to_scan_directory.cpp.o: /Users/pasaran/projects/devworkspace-manager/src/scan_dir/new_way_to_scan_directory.cpp
-CMakeFiles/main.dir/src/scan_dir/new_way_to_scan_directory.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/pasaran/projects/devworkspace-manager/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/main.dir/src/scan_dir/new_way_to_scan_directory.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/scan_dir/new_way_to_scan_directory.cpp.o -MF CMakeFiles/main.dir/src/scan_dir/new_way_to_scan_directory.cpp.o.d -o CMakeFiles/main.dir/src/scan_dir/new_way_to_scan_directory.cpp.o -c /Users/pasaran/projects/devworkspace-manager/src/scan_dir/new_way_to_scan_directory.cpp
+CMakeFiles/main.dir/src/scan_dir/NewWayToScanDirectory.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/src/scan_dir/NewWayToScanDirectory.cpp.o: /Users/pasaran/projects/devworkspace-manager/src/scan_dir/NewWayToScanDirectory.cpp
+CMakeFiles/main.dir/src/scan_dir/NewWayToScanDirectory.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/pasaran/projects/devworkspace-manager/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/main.dir/src/scan_dir/NewWayToScanDirectory.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/scan_dir/NewWayToScanDirectory.cpp.o -MF CMakeFiles/main.dir/src/scan_dir/NewWayToScanDirectory.cpp.o.d -o CMakeFiles/main.dir/src/scan_dir/NewWayToScanDirectory.cpp.o -c /Users/pasaran/projects/devworkspace-manager/src/scan_dir/NewWayToScanDirectory.cpp
 
-CMakeFiles/main.dir/src/scan_dir/new_way_to_scan_directory.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/src/scan_dir/new_way_to_scan_directory.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/pasaran/projects/devworkspace-manager/src/scan_dir/new_way_to_scan_directory.cpp > CMakeFiles/main.dir/src/scan_dir/new_way_to_scan_directory.cpp.i
+CMakeFiles/main.dir/src/scan_dir/NewWayToScanDirectory.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/src/scan_dir/NewWayToScanDirectory.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/pasaran/projects/devworkspace-manager/src/scan_dir/NewWayToScanDirectory.cpp > CMakeFiles/main.dir/src/scan_dir/NewWayToScanDirectory.cpp.i
 
-CMakeFiles/main.dir/src/scan_dir/new_way_to_scan_directory.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/scan_dir/new_way_to_scan_directory.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/pasaran/projects/devworkspace-manager/src/scan_dir/new_way_to_scan_directory.cpp -o CMakeFiles/main.dir/src/scan_dir/new_way_to_scan_directory.cpp.s
+CMakeFiles/main.dir/src/scan_dir/NewWayToScanDirectory.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/scan_dir/NewWayToScanDirectory.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/pasaran/projects/devworkspace-manager/src/scan_dir/NewWayToScanDirectory.cpp -o CMakeFiles/main.dir/src/scan_dir/NewWayToScanDirectory.cpp.s
 
 CMakeFiles/main.dir/src/scan_dir/main.cpp.o: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/src/scan_dir/main.cpp.o: /Users/pasaran/projects/devworkspace-manager/src/scan_dir/main.cpp
@@ -128,36 +128,36 @@ CMakeFiles/main.dir/src/scan_dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/scan_dir/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/pasaran/projects/devworkspace-manager/src/scan_dir/main.cpp -o CMakeFiles/main.dir/src/scan_dir/main.cpp.s
 
-CMakeFiles/main.dir/src/scan_dir/util.cpp.o: CMakeFiles/main.dir/flags.make
-CMakeFiles/main.dir/src/scan_dir/util.cpp.o: /Users/pasaran/projects/devworkspace-manager/src/scan_dir/util.cpp
-CMakeFiles/main.dir/src/scan_dir/util.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/pasaran/projects/devworkspace-manager/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/main.dir/src/scan_dir/util.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/scan_dir/util.cpp.o -MF CMakeFiles/main.dir/src/scan_dir/util.cpp.o.d -o CMakeFiles/main.dir/src/scan_dir/util.cpp.o -c /Users/pasaran/projects/devworkspace-manager/src/scan_dir/util.cpp
+CMakeFiles/main.dir/src/scan_dir/Util.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/src/scan_dir/Util.cpp.o: /Users/pasaran/projects/devworkspace-manager/src/scan_dir/Util.cpp
+CMakeFiles/main.dir/src/scan_dir/Util.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/pasaran/projects/devworkspace-manager/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/main.dir/src/scan_dir/Util.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/scan_dir/Util.cpp.o -MF CMakeFiles/main.dir/src/scan_dir/Util.cpp.o.d -o CMakeFiles/main.dir/src/scan_dir/Util.cpp.o -c /Users/pasaran/projects/devworkspace-manager/src/scan_dir/Util.cpp
 
-CMakeFiles/main.dir/src/scan_dir/util.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/src/scan_dir/util.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/pasaran/projects/devworkspace-manager/src/scan_dir/util.cpp > CMakeFiles/main.dir/src/scan_dir/util.cpp.i
+CMakeFiles/main.dir/src/scan_dir/Util.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/src/scan_dir/Util.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/pasaran/projects/devworkspace-manager/src/scan_dir/Util.cpp > CMakeFiles/main.dir/src/scan_dir/Util.cpp.i
 
-CMakeFiles/main.dir/src/scan_dir/util.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/scan_dir/util.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/pasaran/projects/devworkspace-manager/src/scan_dir/util.cpp -o CMakeFiles/main.dir/src/scan_dir/util.cpp.s
+CMakeFiles/main.dir/src/scan_dir/Util.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/scan_dir/Util.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/pasaran/projects/devworkspace-manager/src/scan_dir/Util.cpp -o CMakeFiles/main.dir/src/scan_dir/Util.cpp.s
 
 # Object files for target main
 main_OBJECTS = \
 "CMakeFiles/main.dir/main.cpp.o" \
-"CMakeFiles/main.dir/src/scan_dir/old_way_to_scan_directory.cpp.o" \
-"CMakeFiles/main.dir/src/scan_dir/new_way_to_scan_directory.cpp.o" \
+"CMakeFiles/main.dir/src/scan_dir/OldWayToScanDirectory.cpp.o" \
+"CMakeFiles/main.dir/src/scan_dir/NewWayToScanDirectory.cpp.o" \
 "CMakeFiles/main.dir/src/scan_dir/main.cpp.o" \
-"CMakeFiles/main.dir/src/scan_dir/util.cpp.o"
+"CMakeFiles/main.dir/src/scan_dir/Util.cpp.o"
 
 # External object files for target main
 main_EXTERNAL_OBJECTS =
 
 main: CMakeFiles/main.dir/main.cpp.o
-main: CMakeFiles/main.dir/src/scan_dir/old_way_to_scan_directory.cpp.o
-main: CMakeFiles/main.dir/src/scan_dir/new_way_to_scan_directory.cpp.o
+main: CMakeFiles/main.dir/src/scan_dir/OldWayToScanDirectory.cpp.o
+main: CMakeFiles/main.dir/src/scan_dir/NewWayToScanDirectory.cpp.o
 main: CMakeFiles/main.dir/src/scan_dir/main.cpp.o
-main: CMakeFiles/main.dir/src/scan_dir/util.cpp.o
+main: CMakeFiles/main.dir/src/scan_dir/Util.cpp.o
 main: CMakeFiles/main.dir/build.make
 main: CMakeFiles/main.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/pasaran/projects/devworkspace-manager/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable main"

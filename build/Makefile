@@ -153,6 +153,78 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+src/scan_dir/NewWayToScanDirectory.o: src/scan_dir/NewWayToScanDirectory.cpp.o
+.PHONY : src/scan_dir/NewWayToScanDirectory.o
+
+# target to build an object file
+src/scan_dir/NewWayToScanDirectory.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/scan_dir/NewWayToScanDirectory.cpp.o
+.PHONY : src/scan_dir/NewWayToScanDirectory.cpp.o
+
+src/scan_dir/NewWayToScanDirectory.i: src/scan_dir/NewWayToScanDirectory.cpp.i
+.PHONY : src/scan_dir/NewWayToScanDirectory.i
+
+# target to preprocess a source file
+src/scan_dir/NewWayToScanDirectory.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/scan_dir/NewWayToScanDirectory.cpp.i
+.PHONY : src/scan_dir/NewWayToScanDirectory.cpp.i
+
+src/scan_dir/NewWayToScanDirectory.s: src/scan_dir/NewWayToScanDirectory.cpp.s
+.PHONY : src/scan_dir/NewWayToScanDirectory.s
+
+# target to generate assembly for a file
+src/scan_dir/NewWayToScanDirectory.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/scan_dir/NewWayToScanDirectory.cpp.s
+.PHONY : src/scan_dir/NewWayToScanDirectory.cpp.s
+
+src/scan_dir/OldWayToScanDirectory.o: src/scan_dir/OldWayToScanDirectory.cpp.o
+.PHONY : src/scan_dir/OldWayToScanDirectory.o
+
+# target to build an object file
+src/scan_dir/OldWayToScanDirectory.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/scan_dir/OldWayToScanDirectory.cpp.o
+.PHONY : src/scan_dir/OldWayToScanDirectory.cpp.o
+
+src/scan_dir/OldWayToScanDirectory.i: src/scan_dir/OldWayToScanDirectory.cpp.i
+.PHONY : src/scan_dir/OldWayToScanDirectory.i
+
+# target to preprocess a source file
+src/scan_dir/OldWayToScanDirectory.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/scan_dir/OldWayToScanDirectory.cpp.i
+.PHONY : src/scan_dir/OldWayToScanDirectory.cpp.i
+
+src/scan_dir/OldWayToScanDirectory.s: src/scan_dir/OldWayToScanDirectory.cpp.s
+.PHONY : src/scan_dir/OldWayToScanDirectory.s
+
+# target to generate assembly for a file
+src/scan_dir/OldWayToScanDirectory.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/scan_dir/OldWayToScanDirectory.cpp.s
+.PHONY : src/scan_dir/OldWayToScanDirectory.cpp.s
+
+src/scan_dir/Util.o: src/scan_dir/Util.cpp.o
+.PHONY : src/scan_dir/Util.o
+
+# target to build an object file
+src/scan_dir/Util.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/scan_dir/Util.cpp.o
+.PHONY : src/scan_dir/Util.cpp.o
+
+src/scan_dir/Util.i: src/scan_dir/Util.cpp.i
+.PHONY : src/scan_dir/Util.i
+
+# target to preprocess a source file
+src/scan_dir/Util.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/scan_dir/Util.cpp.i
+.PHONY : src/scan_dir/Util.cpp.i
+
+src/scan_dir/Util.s: src/scan_dir/Util.cpp.s
+.PHONY : src/scan_dir/Util.s
+
+# target to generate assembly for a file
+src/scan_dir/Util.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/scan_dir/Util.cpp.s
+.PHONY : src/scan_dir/Util.cpp.s
+
 src/scan_dir/main.o: src/scan_dir/main.cpp.o
 .PHONY : src/scan_dir/main.o
 
@@ -177,78 +249,6 @@ src/scan_dir/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/scan_dir/main.cpp.s
 .PHONY : src/scan_dir/main.cpp.s
 
-src/scan_dir/new_way_to_scan_directory.o: src/scan_dir/new_way_to_scan_directory.cpp.o
-.PHONY : src/scan_dir/new_way_to_scan_directory.o
-
-# target to build an object file
-src/scan_dir/new_way_to_scan_directory.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/scan_dir/new_way_to_scan_directory.cpp.o
-.PHONY : src/scan_dir/new_way_to_scan_directory.cpp.o
-
-src/scan_dir/new_way_to_scan_directory.i: src/scan_dir/new_way_to_scan_directory.cpp.i
-.PHONY : src/scan_dir/new_way_to_scan_directory.i
-
-# target to preprocess a source file
-src/scan_dir/new_way_to_scan_directory.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/scan_dir/new_way_to_scan_directory.cpp.i
-.PHONY : src/scan_dir/new_way_to_scan_directory.cpp.i
-
-src/scan_dir/new_way_to_scan_directory.s: src/scan_dir/new_way_to_scan_directory.cpp.s
-.PHONY : src/scan_dir/new_way_to_scan_directory.s
-
-# target to generate assembly for a file
-src/scan_dir/new_way_to_scan_directory.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/scan_dir/new_way_to_scan_directory.cpp.s
-.PHONY : src/scan_dir/new_way_to_scan_directory.cpp.s
-
-src/scan_dir/old_way_to_scan_directory.o: src/scan_dir/old_way_to_scan_directory.cpp.o
-.PHONY : src/scan_dir/old_way_to_scan_directory.o
-
-# target to build an object file
-src/scan_dir/old_way_to_scan_directory.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/scan_dir/old_way_to_scan_directory.cpp.o
-.PHONY : src/scan_dir/old_way_to_scan_directory.cpp.o
-
-src/scan_dir/old_way_to_scan_directory.i: src/scan_dir/old_way_to_scan_directory.cpp.i
-.PHONY : src/scan_dir/old_way_to_scan_directory.i
-
-# target to preprocess a source file
-src/scan_dir/old_way_to_scan_directory.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/scan_dir/old_way_to_scan_directory.cpp.i
-.PHONY : src/scan_dir/old_way_to_scan_directory.cpp.i
-
-src/scan_dir/old_way_to_scan_directory.s: src/scan_dir/old_way_to_scan_directory.cpp.s
-.PHONY : src/scan_dir/old_way_to_scan_directory.s
-
-# target to generate assembly for a file
-src/scan_dir/old_way_to_scan_directory.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/scan_dir/old_way_to_scan_directory.cpp.s
-.PHONY : src/scan_dir/old_way_to_scan_directory.cpp.s
-
-src/scan_dir/util.o: src/scan_dir/util.cpp.o
-.PHONY : src/scan_dir/util.o
-
-# target to build an object file
-src/scan_dir/util.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/scan_dir/util.cpp.o
-.PHONY : src/scan_dir/util.cpp.o
-
-src/scan_dir/util.i: src/scan_dir/util.cpp.i
-.PHONY : src/scan_dir/util.i
-
-# target to preprocess a source file
-src/scan_dir/util.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/scan_dir/util.cpp.i
-.PHONY : src/scan_dir/util.cpp.i
-
-src/scan_dir/util.s: src/scan_dir/util.cpp.s
-.PHONY : src/scan_dir/util.s
-
-# target to generate assembly for a file
-src/scan_dir/util.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/scan_dir/util.cpp.s
-.PHONY : src/scan_dir/util.cpp.s
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -261,18 +261,18 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... src/scan_dir/NewWayToScanDirectory.o"
+	@echo "... src/scan_dir/NewWayToScanDirectory.i"
+	@echo "... src/scan_dir/NewWayToScanDirectory.s"
+	@echo "... src/scan_dir/OldWayToScanDirectory.o"
+	@echo "... src/scan_dir/OldWayToScanDirectory.i"
+	@echo "... src/scan_dir/OldWayToScanDirectory.s"
+	@echo "... src/scan_dir/Util.o"
+	@echo "... src/scan_dir/Util.i"
+	@echo "... src/scan_dir/Util.s"
 	@echo "... src/scan_dir/main.o"
 	@echo "... src/scan_dir/main.i"
 	@echo "... src/scan_dir/main.s"
-	@echo "... src/scan_dir/new_way_to_scan_directory.o"
-	@echo "... src/scan_dir/new_way_to_scan_directory.i"
-	@echo "... src/scan_dir/new_way_to_scan_directory.s"
-	@echo "... src/scan_dir/old_way_to_scan_directory.o"
-	@echo "... src/scan_dir/old_way_to_scan_directory.i"
-	@echo "... src/scan_dir/old_way_to_scan_directory.s"
-	@echo "... src/scan_dir/util.o"
-	@echo "... src/scan_dir/util.i"
-	@echo "... src/scan_dir/util.s"
 .PHONY : help
 
 

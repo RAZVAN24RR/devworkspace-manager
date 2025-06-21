@@ -5,6 +5,8 @@
 #include "main.h"
 
 int main() {
+
   show_methods();
+
   return 0;
 }

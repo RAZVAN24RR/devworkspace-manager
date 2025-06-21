@@ -1,5 +1,11 @@
 cmake_minimum_required(VERSION 3.10)
 project(devworkspace-manager)
 set(CMAKE_CXX_STANDARD 17)
-set(CMAKE_CXX_STANDARD_REQUIRED True)
-add_executable(main main.cpp src/scan_dir/old_way_to_scan_directory.cpp src/scan_dir/new_way_to_scan_directory.cpp src/scan_dir/main.cpp src/scan_dir/util.cpp)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+add_executable(
+        main
+        main.cpp
+        src/scan_dir/OldWayToScanDirectory.cpp
+        src/scan_dir/NewWayToScanDirectory.cpp
+        src/scan_dir/main.cpp src/scan_dir/Util.cpp
+)

@@ -1,6 +1,6 @@
-CMakeFiles/main.dir/src/scan_dir/util.cpp.o: \
-  /Users/pasaran/projects/devworkspace-manager/src/scan_dir/util.cpp \
-  /Users/pasaran/projects/devworkspace-manager/src/scan_dir/util.h \
+CMakeFiles/main.dir/src/scan_dir/Util.cpp.o: \
+  /Users/pasaran/projects/devworkspace-manager/src/scan_dir/Util.cpp \
+  /Users/pasaran/projects/devworkspace-manager/src/scan_dir/Util.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__assert \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__assertion_handler \

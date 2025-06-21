@@ -1,6 +1,6 @@
 CMakeFiles/main.dir/src/scan_dir/main.cpp.o: \
   /Users/pasaran/projects/devworkspace-manager/src/scan_dir/main.cpp \
-  /Users/pasaran/projects/devworkspace-manager/src/scan_dir/old_way_to_scan_directory.h \
+  /Users/pasaran/projects/devworkspace-manager/src/scan_dir/OldWayToScanDirectory.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__assert \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__assertion_handler \
@@ -957,7 +957,5 @@ CMakeFiles/main.dir/src/scan_dir/main.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__format/formatter_tuple.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/print \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/unistd.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/dirent.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/dirent.h \
-  /Users/pasaran/projects/devworkspace-manager/src/scan_dir/new_way_to_scan_directory.h \
+  /Users/pasaran/projects/devworkspace-manager/src/scan_dir/NewWayToScanDirectory.h \
   /Users/pasaran/projects/devworkspace-manager/src/scan_dir/main.h
