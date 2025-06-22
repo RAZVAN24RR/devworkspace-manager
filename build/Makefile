@@ -225,6 +225,30 @@ src/scan_dir/Util.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/scan_dir/Util.cpp.s
 .PHONY : src/scan_dir/Util.cpp.s
 
+src/scan_dir/classes/FileSystemEntry.o: src/scan_dir/classes/FileSystemEntry.cpp.o
+.PHONY : src/scan_dir/classes/FileSystemEntry.o
+
+# target to build an object file
+src/scan_dir/classes/FileSystemEntry.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/scan_dir/classes/FileSystemEntry.cpp.o
+.PHONY : src/scan_dir/classes/FileSystemEntry.cpp.o
+
+src/scan_dir/classes/FileSystemEntry.i: src/scan_dir/classes/FileSystemEntry.cpp.i
+.PHONY : src/scan_dir/classes/FileSystemEntry.i
+
+# target to preprocess a source file
+src/scan_dir/classes/FileSystemEntry.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/scan_dir/classes/FileSystemEntry.cpp.i
+.PHONY : src/scan_dir/classes/FileSystemEntry.cpp.i
+
+src/scan_dir/classes/FileSystemEntry.s: src/scan_dir/classes/FileSystemEntry.cpp.s
+.PHONY : src/scan_dir/classes/FileSystemEntry.s
+
+# target to generate assembly for a file
+src/scan_dir/classes/FileSystemEntry.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/scan_dir/classes/FileSystemEntry.cpp.s
+.PHONY : src/scan_dir/classes/FileSystemEntry.cpp.s
+
 src/scan_dir/main.o: src/scan_dir/main.cpp.o
 .PHONY : src/scan_dir/main.o
 
@@ -270,6 +294,9 @@ help:
 	@echo "... src/scan_dir/Util.o"
 	@echo "... src/scan_dir/Util.i"
 	@echo "... src/scan_dir/Util.s"
+	@echo "... src/scan_dir/classes/FileSystemEntry.o"
+	@echo "... src/scan_dir/classes/FileSystemEntry.i"
+	@echo "... src/scan_dir/classes/FileSystemEntry.s"
 	@echo "... src/scan_dir/main.o"
 	@echo "... src/scan_dir/main.i"
 	@echo "... src/scan_dir/main.s"
