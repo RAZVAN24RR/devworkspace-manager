@@ -980,4 +980,7 @@ CMakeFiles/main.dir/src/scan_dir/main.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/u8path.h \
   /Users/pasaran/projects/devworkspace-manager/src/scan_dir/classes/RegularFile.h \
   /Users/pasaran/projects/devworkspace-manager/src/scan_dir/classes/Directory.h \
-  /Users/pasaran/projects/devworkspace-manager/src/scan_dir/main.h
+  /Users/pasaran/projects/devworkspace-manager/src/scan_dir/main.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/map \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__tree \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/sstream
