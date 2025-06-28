@@ -24,6 +24,15 @@ private:
     std::filesystem::file_time_type last_accessed;
     bool is_hidden;
 public:
-    FileSystemEntry();
+    FileSystemEntry(const std::filesystem::path& path);
+    std::string getName() const;
+    std::filesystem::path getPath() const;
+    std::filesystem::path getParentPath() const;
+    std::filesystem::file_time_type getCreationTime() const;
+    std::filesystem::file_time_type getLastModified() const;
+    std::filesystem::file_time_type getLastAccessed() const;
+	std::string getOwner() const;
+    std::string getGroupName() const;
+    std::uintmax_t getFileSize() const;
 };
 

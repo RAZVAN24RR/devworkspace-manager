@@ -4,5 +4,7 @@
 
 #pragma once
 #include <iostream>
-std::vector<std::string> NewWayToScanDirectory(const char *file_path);
+#include "classes/FileSystemEntry.h"
+
+std::vector<FileSystemEntry> NewWayToScanDirectory(const char *file_path);
 

@@ -8,4 +8,5 @@ add_executable(
         src/scan_dir/OldWayToScanDirectory.cpp
         src/scan_dir/NewWayToScanDirectory.cpp
         src/scan_dir/main.cpp src/scan_dir/Util.cpp
+        src/scan_dir/classes/FileSystemEntry.cpp
 )

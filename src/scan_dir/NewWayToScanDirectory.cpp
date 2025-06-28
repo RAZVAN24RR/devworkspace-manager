@@ -3,14 +3,13 @@
 //
 #include "NewWayToScanDirectory.h"
 #include <filesystem>
-#include "util.h"
+#include "Util.h"
 using std::filesystem::directory_iterator;
 
-std::vector<std::string> NewWayToScanDirectory(const char * file_path){
-  std::vector<std::string> new_way_to_scan_dir;
+std::vector<FileSystemEntry> NewWayToScanDirectory(const char * file_path){
+  std::vector<FileSystemEntry> files;
    for(const auto&entry:std::filesystem::directory_iterator (file_path)) {
-    new_way_to_scan_dir.push_back(entry.path());
+    files.push_back(FileSystemEntry(entry.path()));
   }
-  procesare_fisier::merge();
-  return new_way_to_scan_dir;
+  return files;
 }
