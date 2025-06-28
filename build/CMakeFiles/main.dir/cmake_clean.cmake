@@ -9,6 +9,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/main.dir/src/scan_dir/Util.cpp.o.d"
   "CMakeFiles/main.dir/src/scan_dir/classes/FileSystemEntry.cpp.o"
   "CMakeFiles/main.dir/src/scan_dir/classes/FileSystemEntry.cpp.o.d"
+  "CMakeFiles/main.dir/src/scan_dir/classes/RegularFile.cpp.o"
+  "CMakeFiles/main.dir/src/scan_dir/classes/RegularFile.cpp.o.d"
   "CMakeFiles/main.dir/src/scan_dir/main.cpp.o"
   "CMakeFiles/main.dir/src/scan_dir/main.cpp.o.d"
   "main"

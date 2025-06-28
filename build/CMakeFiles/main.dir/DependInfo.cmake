@@ -13,6 +13,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/Users/pasaran/projects/devworkspace-manager/src/scan_dir/OldWayToScanDirectory.cpp" "CMakeFiles/main.dir/src/scan_dir/OldWayToScanDirectory.cpp.o" "gcc" "CMakeFiles/main.dir/src/scan_dir/OldWayToScanDirectory.cpp.o.d"
   "/Users/pasaran/projects/devworkspace-manager/src/scan_dir/Util.cpp" "CMakeFiles/main.dir/src/scan_dir/Util.cpp.o" "gcc" "CMakeFiles/main.dir/src/scan_dir/Util.cpp.o.d"
   "/Users/pasaran/projects/devworkspace-manager/src/scan_dir/classes/FileSystemEntry.cpp" "CMakeFiles/main.dir/src/scan_dir/classes/FileSystemEntry.cpp.o" "gcc" "CMakeFiles/main.dir/src/scan_dir/classes/FileSystemEntry.cpp.o.d"
+  "/Users/pasaran/projects/devworkspace-manager/src/scan_dir/classes/RegularFile.cpp" "CMakeFiles/main.dir/src/scan_dir/classes/RegularFile.cpp.o" "gcc" "CMakeFiles/main.dir/src/scan_dir/classes/RegularFile.cpp.o.d"
   "/Users/pasaran/projects/devworkspace-manager/src/scan_dir/main.cpp" "CMakeFiles/main.dir/src/scan_dir/main.cpp.o" "gcc" "CMakeFiles/main.dir/src/scan_dir/main.cpp.o.d"
   )
 
