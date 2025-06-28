@@ -1,6 +1,6 @@
-CMakeFiles/main.dir/src/scan_dir/main.cpp.o: \
-  /Users/pasaran/projects/devworkspace-manager/src/scan_dir/main.cpp \
-  /Users/pasaran/projects/devworkspace-manager/src/scan_dir/OldWayToScanDirectory.h \
+CMakeFiles/main.dir/src/scan_dir/classes/Directory.cpp.o: \
+  /Users/pasaran/projects/devworkspace-manager/src/scan_dir/classes/Directory.cpp \
+  /Users/pasaran/projects/devworkspace-manager/src/scan_dir/classes/FileSystemEntry.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__assert \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__assertion_handler \
@@ -957,8 +957,6 @@ CMakeFiles/main.dir/src/scan_dir/main.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__format/formatter_tuple.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/print \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/unistd.h \
-  /Users/pasaran/projects/devworkspace-manager/src/scan_dir/NewWayToScanDirectory.h \
-  /Users/pasaran/projects/devworkspace-manager/src/scan_dir/classes/FileSystemEntry.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/filesystem \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/copy_options.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/directory_entry.h \
@@ -978,6 +976,4 @@ CMakeFiles/main.dir/src/scan_dir/main.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/path_iterator.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/recursive_directory_iterator.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/u8path.h \
-  /Users/pasaran/projects/devworkspace-manager/src/scan_dir/classes/RegularFile.h \
-  /Users/pasaran/projects/devworkspace-manager/src/scan_dir/classes/Directory.h \
-  /Users/pasaran/projects/devworkspace-manager/src/scan_dir/main.h
+  /Users/pasaran/projects/devworkspace-manager/src/scan_dir/classes/Directory.h

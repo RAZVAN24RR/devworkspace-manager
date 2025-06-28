@@ -10,4 +10,5 @@ add_executable(
         src/scan_dir/main.cpp src/scan_dir/Util.cpp
         src/scan_dir/classes/FileSystemEntry.cpp
         src/scan_dir/classes/RegularFile.cpp
+        src/scan_dir/classes/Directory.cpp
 )

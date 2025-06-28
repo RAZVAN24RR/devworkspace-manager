@@ -34,5 +34,7 @@ public:
 	std::string getOwner() const;
     std::string getGroupName() const;
     std::uintmax_t getFileSize() const;
+    bool isDirectory();
+    bool isFile();
 };
 

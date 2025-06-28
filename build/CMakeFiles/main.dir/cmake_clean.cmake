@@ -7,6 +7,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/main.dir/src/scan_dir/OldWayToScanDirectory.cpp.o.d"
   "CMakeFiles/main.dir/src/scan_dir/Util.cpp.o"
   "CMakeFiles/main.dir/src/scan_dir/Util.cpp.o.d"
+  "CMakeFiles/main.dir/src/scan_dir/classes/Directory.cpp.o"
+  "CMakeFiles/main.dir/src/scan_dir/classes/Directory.cpp.o.d"
   "CMakeFiles/main.dir/src/scan_dir/classes/FileSystemEntry.cpp.o"
   "CMakeFiles/main.dir/src/scan_dir/classes/FileSystemEntry.cpp.o.d"
   "CMakeFiles/main.dir/src/scan_dir/classes/RegularFile.cpp.o"

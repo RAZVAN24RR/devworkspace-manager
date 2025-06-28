@@ -73,3 +73,10 @@ std::string FileSystemEntry::getOwner() const{
 std::string FileSystemEntry::getGroupName() const{
   return this->group_name;
 };
+
+bool FileSystemEntry::isFile(){
+  return std::filesystem::is_regular_file(this->getPath());
+}
+bool FileSystemEntry::isDirectory(){
+  return std::filesystem::is_directory(this->getPath());
+}

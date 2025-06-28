@@ -6,5 +6,5 @@
 #include <iostream>
 #define DIR_PRINCIPAL "."
 void show_methods();
-void show_files(const std::vector<std::string>&files);
+void build_entries(const std::vector<std::string>&files);
 
