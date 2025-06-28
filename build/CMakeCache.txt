@@ -222,6 +222,15 @@ devworkspace-manager_IS_TOP_LEVEL:STATIC=ON
 //Value Computed by CMake
 devworkspace-manager_SOURCE_DIR:STATIC=/Users/pasaran/projects/devworkspace-manager
 
+//Value Computed by CMake
+workspace-manager_BINARY_DIR:STATIC=/Users/pasaran/projects/devworkspace-manager/build
+
+//Value Computed by CMake
+workspace-manager_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+workspace-manager_SOURCE_DIR:STATIC=/Users/pasaran/projects/devworkspace-manager
+
 
 ########################
 # INTERNAL cache entries
